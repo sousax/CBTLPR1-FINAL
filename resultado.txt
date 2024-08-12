@@ -1,0 +1,19 @@
+Propriedades de p1:
+Data: 15/8/2024
+Hora: 10:30:00
+Nome do Paciente: João Silva
+Nome do Médico: Dr. Oliveira
+
+Propriedades de p2:
+Data: 10/5/2024
+Hora: 15:30:00
+Nome do Paciente: Caua
+Nome do Médico: Dr.Eduardo
+
+Propriedades de p1 após alteração:
+Data: 16/8/2024
+Hora: 14:45:00
+Nome do Paciente: Maria Souza
+Nome do Médico: Dr. Pereira
+
+Quantidade final de consultas: 2
